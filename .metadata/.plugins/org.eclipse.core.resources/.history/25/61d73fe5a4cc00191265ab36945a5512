@@ -1,0 +1,11 @@
+package com.sgic.jdbc.sample;
+
+public class StudentServiceImp implements S_service {
+
+	@Override
+	public void saveStudent(student student) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
